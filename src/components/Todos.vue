@@ -36,7 +36,6 @@
         </md-empty-state>
       </div>
     </div>
-
     <md-dialog-alert
       :md-active.sync="showNotify"
       :md-title="notifyMessage"
